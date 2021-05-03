@@ -1,0 +1,15 @@
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
+C:\C#\C#\Book Applications\Chapter 05\FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csprojAssemblyReference.cache
